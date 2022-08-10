@@ -1,0 +1,2 @@
+# Prediction-of-house-selling
+Performed Variable Identification, Univariate analysis, Bivariate analysis, Outlier treatment, Missing Value treatment, Feature Engineering. Used Machine learning Algorithm i.e., Logistic Regression, Linear Discriminant Analysis, K – Nearest Neighbor to predict whether the house got  sold or not on the basis of the data available and to obtained and compare the accuracy Score for the test data.
